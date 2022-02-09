@@ -1,3 +1,5 @@
+Predicting Academic Performance Using an Efficient Model
+Based on Fusion of Classifiers
 Abstract: In the past few years, educational data mining (EDM) has attracted the attention of
 researchers to enhance the quality of education. Predicting student academic performance is crucial
 to improving the value of education. Some research studies have been conducted which mainly
@@ -18,7 +20,7 @@ results showed that MultiBoost with MLP outperformed the others by achieving 98.
 identifying the academic performance of secondary level students at an early stage to improve the
 learning outcomes.
 Keywords: educational data mining; supervised learning; secondary education; academic performance
-1. Introduction
+Introduction:
 Educational data mining (EDM) is a growing area of research that is being used to
 explore educational data for different academic purposes. The main application of EDM
 is the prediction of students’ academic performance [1,2]. In data mining, the analysis
